@@ -37,4 +37,4 @@
 
 - :zap: В свободное время я решаю задачи на GeeksforGeeks и читаю технические статьи.
 
-- :mailbox:Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](your-linkedin-url)
+- :mailbox:Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/demtrofimov)
