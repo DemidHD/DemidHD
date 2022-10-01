@@ -31,10 +31,10 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :telescope: Мне 16 лет, учусь в школе.
+- :telescope: Мне 16 лет, я из России.
 
-- :seedling: Изучаю математику и програаммирвоание, совмещаю это в своих проектах
+- :seedling: Изучаю математику и програаммирование, совмещаю это в своих проектах
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: В свободное время я решаю задачи на GeeksforGeeks и читаю технические статьи.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
