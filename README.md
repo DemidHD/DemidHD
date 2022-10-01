@@ -33,7 +33,7 @@
 ### :woman_technologist: About Me :
 - :telescope: Мне 16 лет, учусь в школе.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Изучаю математику и програаммирвоание, совмещаю это в своих проектах
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
