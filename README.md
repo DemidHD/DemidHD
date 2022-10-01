@@ -31,7 +31,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Мне 16 лет, учусь в школе.
 
 - :seedling: Exploring Technical Content Writing.
 
