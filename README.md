@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<img  align="center" src="https://streak-stats.demolab.com?user=DemidHD&theme=radical&card_width=855" alt="Error">
+<img  align="center" src="https://streak-stats.demolab.com?user=DemidHD&theme=radical&card_width=500" alt="Error">
 </p>
 
 
