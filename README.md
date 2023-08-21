@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img height="250" width="1000" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical" alt="Error">
+<img height="250" width="10" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical" alt="Error">
 </p>
 
 <div align="center">
