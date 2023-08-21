@@ -4,17 +4,13 @@
 
 
 <p align="center">
-<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical" alt="Error">
-<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DemidHD&theme=radical" alt="Error">
-<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemidHD&theme=radical" alt="Error">
+<img height="190" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical" alt="Error">
+<img height="190" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DemidHD&theme=radical" alt="Error">
+<img height="190" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemidHD&theme=radical" alt="Error">
 <img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemidHD&theme=radical" alt="Error">
 <img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DemidHD&theme=radical&utcOffset=8" alt="Error">
 </p>
 
-
-<div align="center">
-<img  src="https://komarev.com/ghpvc/?username=DemidHD&style=flat-square&color=green" alt="Просмотры" />
-</div>
 
 <p align="center">
 <img  align="center" src="https://github-profile-trophy.vercel.app/?username=DemidHD&theme=radical&column=7&margin-w=15" alt="Error">
@@ -30,6 +26,11 @@
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemidHD&layout=compact&show_icons=true&theme=radical" alt="Error">
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=DemidHD&layout=compact&show_icons=true&theme=radical" alt="Error">
 </p>
+
+
+<div align="center">
+<img  src="https://komarev.com/ghpvc/?username=DemidHD&style=flat-square&color=green" alt="Просмотры" />
+</div>
 
 <div id="badges" align="center">
   <a href="https://vk.com/demtrofimov">
