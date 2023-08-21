@@ -15,6 +15,14 @@
 <img  src="https://komarev.com/ghpvc/?username=DemidHD&style=flat-square&color=green" alt="Просмотры" />
 </div>
 
+<p align="center">
+<img  align="center" src="https://github-profile-trophy.vercel.app/?username=DemidHD&theme=radical&column=7&margin-w=15" alt="Error">
+</p>
+
+<p align="center">
+<img  align="center" src="https://streak-stats.demolab.com?user=DemidHD&theme=radical&card_width=855" alt="Error">
+</p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
