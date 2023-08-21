@@ -7,7 +7,6 @@
 <img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemidHD&theme=radical" alt="Error">
 <img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical" alt="Error">
 </p>
-
 <p align="center">
 <img height="171" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DemidHD&theme=radical" alt="Error">
 <img height="171" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemidHD&theme=radical" alt="Error">
