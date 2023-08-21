@@ -3,10 +3,10 @@
 </div>
 
 
-<p align="center">
-<img height="150" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemidHD&theme=radical" alt="Error">
+<div align="center">
 <img height="170" width="1000" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical" alt="Error">
-</p>
+  <img height="150" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemidHD&theme=radical" alt="Error">
+</div>
 
 <div align="center">
 <img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DemidHD&theme=radical" alt="Error">
