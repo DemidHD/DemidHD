@@ -45,7 +45,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: Обо мне :
+### :man_technologist: Обо мне :
 - :telescope: Мне 17 лет, я студент из России.
 
 - :seedling: Изучаю математику и программирование, совмещаю это в своих проектах.
