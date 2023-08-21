@@ -1,15 +1,7 @@
 <div id="header" align="center">
   <img  align="center" src="banner.png" alt="Error">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
-
-<div id="badges" align="center">
-  <a href="https://vk.com/demtrofimov">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
-  </a>
-</div>
 
 <div align="center">
 <img  src="https://komarev.com/ghpvc/?username=DemidHD&style=flat-square&color=green" alt="Просмотры" />
@@ -29,6 +21,12 @@
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemidHD&layout=compact&show_icons=true&theme=radical" alt="Error">
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=DemidHD&layout=compact&show_icons=true&theme=radical" alt="Error">
 </p>
+
+<div id="badges" align="center">
+  <a href="https://vk.com/demtrofimov">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
+  </a>
+</div>
 
 <p align="center">
 <img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical" alt="Error">
