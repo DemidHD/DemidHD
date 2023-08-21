@@ -5,12 +5,14 @@
 
 <p align="center">
 <img height="190" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical" alt="Error">
-<img height="190" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DemidHD&theme=radical" alt="Error">
-<img height="190" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemidHD&theme=radical" alt="Error">
-<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemidHD&theme=radical" alt="Error">
-<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DemidHD&theme=radical&utcOffset=8" alt="Error">
 </p>
 
+<div align="center">
+<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DemidHD&theme=radical" alt="Error">
+<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemidHD&theme=radical" alt="Error">
+<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemidHD&theme=radical" alt="Error">
+<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DemidHD&theme=radical&utcOffset=8" alt="Error">
+</div>
 
 <p align="center">
 <img  align="center" src="https://github-profile-trophy.vercel.app/?username=DemidHD&theme=radical&column=7&margin-w=15" alt="Error">
