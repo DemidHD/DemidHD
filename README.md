@@ -28,9 +28,9 @@
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=DemidHD&layout=compact&show_icons=true&theme=radical" alt="Error">
 </p>
 
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer)](https://git.io/typing-svg)
-
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
