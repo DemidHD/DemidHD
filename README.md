@@ -29,16 +29,6 @@
 </p>
 
 
-<div align="center">
-<img  src="https://komarev.com/ghpvc/?username=DemidHD&style=flat-square&color=green" alt="Просмотры" />
-</div>
-
-<div id="badges" align="center">
-  <a href="https://vk.com/demtrofimov">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
-  </a>
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer)](https://git.io/typing-svg)
 
 <div align="center">
@@ -70,3 +60,12 @@
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+<div align="center">
+<img  src="https://komarev.com/ghpvc/?username=DemidHD&style=flat-square&color=green" alt="Просмотры" />
+</div>
+
+<div id="badges" align="center">
+  <a href="https://vk.com/demtrofimov">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
+  </a>
+</div>
