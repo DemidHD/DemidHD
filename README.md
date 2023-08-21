@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img  align="center" src="https://github-profile-trophy.vercel.app/?username=DemidHD&theme=radical&column=7&margin-w=15" alt="Error">
+<img  align="center" src="https://github-profile-trophy.vercel.app/?username=DemidHD&theme=radical&column=7&margin-w=5" alt="Error">
 </p>
 
 <p align="center">
