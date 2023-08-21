@@ -24,6 +24,21 @@
 </p>
 
 
+<p align="center">
+
+<img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemidHD&layout=compact&show_icons=true&theme=radical" alt="Error">
+<img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=DemidHD&layout=compact&show_icons=true&theme=radical" alt="Error">
+</p>
+
+<p align="center">
+<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical" alt="Error">
+<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DemidHD&theme=radical" alt="Error">
+<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemidHD&theme=radical" alt="Error">
+<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemidHD&theme=radical" alt="Error">
+<img height="170" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DemidHD&theme=radical&utcOffset=8" alt="Error">
+</p>
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
