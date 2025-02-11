@@ -33,7 +33,7 @@
 
 ### :man_technologist: Обо мне :
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Разработчик+Математик+Программист)](https://git.io/typing-svg)
-- :telescope: Мне 17 лет, я студент из России.
+- :telescope: Мне 19 лет, я студент из России.
 
 - :seedling: Изучаю математику и программирование, совмещаю это в своих проектах.
 
