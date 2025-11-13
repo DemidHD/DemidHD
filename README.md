@@ -1,11 +1,6 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="Profile Banner">
 </div>
-
-<h1 align="center">👋 Привет, я Демид!</h1>
-
-<h3 align="center">Разработчик | Математик | Программист</h3>
-
 ---
 
 ### 📊 Статистика GitHub
