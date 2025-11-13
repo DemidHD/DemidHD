@@ -2,16 +2,20 @@
   <img src="banner.png" width="100%" alt="Profile Banner">
 </div>
 
+
 ### 📊 Статистика GitHub
 
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DemidHD&theme=radical&column=7&margin-w=15&no-frame=true)
 
+![Streak Stats](https://streak-stats.demolab.com?user=DemidHD&theme=radical&fire=DD2727&ring=DD2727)
+
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical)
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DemidHD&theme=radical)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemidHD&theme=radical)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemidHD&theme=radical)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DemidHD&theme=radical&utcOffset=8)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DemidHD&layout=compact&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemidHD&show_icons=true&theme=radical&include_all_commits=true)
@@ -61,8 +65,8 @@
 <div align="center">
 
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/demtrofimov)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/demidhd)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeeedAsk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demid.trofimov.2017@mail.ru)
 
 </div>
 
