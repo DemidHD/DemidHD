@@ -14,7 +14,6 @@
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DemidHD&theme=radical)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemidHD&theme=radical)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemidHD&theme=radical)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DemidHD&theme=radical&utcOffset=8)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DemidHD&layout=compact&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemidHD&show_icons=true&theme=radical&include_all_commits=true)
