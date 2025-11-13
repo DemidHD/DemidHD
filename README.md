@@ -8,8 +8,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DemidHD&theme=radical&column=7&margin-w=15&no-frame=true)
 
-![Streak Stats](https://streak-stats.demolab.com?user=DemidHD&theme=radical&fire=DD2727&ring=DD2727)
-
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemidHD&theme=radical)
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DemidHD&theme=radical)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemidHD&theme=radical)
